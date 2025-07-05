@@ -3,6 +3,7 @@ Visualizador de Árvore B para a disciplina de Organização em Arquivos
 
 ## Instale as dependências (crie uma venv pelo bem do seu SO)
 ```bash
+sudo apt-get install graphviz graphviz-dev
 pip install requirements.txt
 ```
 
