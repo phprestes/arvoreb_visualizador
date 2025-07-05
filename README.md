@@ -1,6 +1,11 @@
 # Visualizador de Árvore B
 Visualizador de Árvore B para a disciplina de Organização em Arquivos
 
+### Nós por cor:
+- Vermelho: Raiz
+- Azul: Intermediário
+- Verde: Folha
+
 ## Instale as dependências (crie uma venv pelo bem do seu SO)
 ```bash
 sudo apt-get install graphviz graphviz-dev
