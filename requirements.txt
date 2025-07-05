@@ -1,0 +1,23 @@
+Brotli @ file:///croot/brotli-split_1736182456865/work
+contourpy @ file:///croot/contourpy_1732540045555/work
+cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
+fonttools @ file:///croot/fonttools_1737039080035/work
+kiwisolver @ file:///croot/kiwisolver_1737039087198/work
+matplotlib==3.10.0
+mkl-service==2.4.0
+mkl_fft @ file:///io/mkl313/mkl_fft_1730824109137/work
+mkl_random @ file:///io/mkl313/mkl_random_1730823916628/work
+networkx @ file:///croot/networkx_1737039604450/work
+numpy @ file:///croot/numpy_and_numpy_base_1747238018250/work/dist/numpy-2.2.5-cp313-cp313-linux_x86_64.whl#sha256=0e0751551faf5084bae97319f1019238122ff4a3eefee4d271cdc73fe7ee20eb
+packaging @ file:///croot/packaging_1734472117206/work
+pillow @ file:///croot/pillow_1744613067434/work
+pygraphviz==1.14
+pyparsing @ file:///io/buildout/croot/pyparsing_1735862672222/work
+PyQt6==6.7.1
+PyQt6_sip @ file:///croot/pyqt-split_1744804475988/work/pyqt_sip
+python-dateutil @ file:///work/perseverance-python-buildout/croot/python-dateutil_1728385355105/work
+setuptools==72.1.0
+sip @ file:///croot/sip_1738856193618/work
+six @ file:///croot/six_1744271502820/work
+tornado @ file:///croot/tornado_1748956929273/work
+wheel==0.45.1
